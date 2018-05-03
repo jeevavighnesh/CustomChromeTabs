@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomChromeTabs</string>
+    <string name="welcome_string">Press the dam button to open google</string>
+</resources>
